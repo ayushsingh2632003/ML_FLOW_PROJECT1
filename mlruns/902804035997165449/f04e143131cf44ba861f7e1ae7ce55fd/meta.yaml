@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/902804035997165449/f04e143131cf44ba861f7e1ae7ce55fd/artifacts
+end_time: 1755613157766
+entry_point_name: ''
+experiment_id: '902804035997165449'
+lifecycle_stage: active
+run_id: f04e143131cf44ba861f7e1ae7ce55fd
+run_name: puzzled-fawn-777
+run_uuid: f04e143131cf44ba861f7e1ae7ce55fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755613150764
+status: 3
+tags: []
+user_id: admin

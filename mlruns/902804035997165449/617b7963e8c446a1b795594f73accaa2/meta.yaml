@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/902804035997165449/617b7963e8c446a1b795594f73accaa2/artifacts
+end_time: 1755530671049
+entry_point_name: ''
+experiment_id: '902804035997165449'
+lifecycle_stage: active
+run_id: 617b7963e8c446a1b795594f73accaa2
+run_name: intrigued-skink-318
+run_uuid: 617b7963e8c446a1b795594f73accaa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755530670703
+status: 4
+tags: []
+user_id: admin

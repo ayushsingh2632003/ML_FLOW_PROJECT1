@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/902804035997165449/068c7cb7924d487fb4978a1f1493b123/artifacts
+end_time: 1755530717156
+entry_point_name: ''
+experiment_id: '902804035997165449'
+lifecycle_stage: active
+run_id: 068c7cb7924d487fb4978a1f1493b123
+run_name: fortunate-mole-452
+run_uuid: 068c7cb7924d487fb4978a1f1493b123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755530690442
+status: 3
+tags: []
+user_id: admin

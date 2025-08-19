@@ -1,0 +1,23 @@
+
+MLflow is an open-source platform for managing the machine learning lifecycle. As a student, you can use MLflow to:
+
+Experiment tracking: Automatically logs parameters, metrics, and artifacts for reproducibility and analysis.
+Model registry: Centralized storage for model versions, making it easy to manage, approve, and deploy models.
+Deployment: Supports deploying models to various environments (local, cloud, REST API) with minimal effort.
+Collaboration: Enables teams to share experiments, models, and results efficiently.
+Integration: Works with popular ML libraries and tools, fitting into CI/CD pipelines for production ML systems.
+
+
+activate venv : 
+D:\PROJECTS\ML_FLOW_PROJECT1\venv
+
+
+
+MODEL REGISTRY:
+
+In MLflow, the Model Registry is a centralized store for managing machine learning models. It provides:
+
+Versioning: Tracks different versions of models.
+Stage transitions: Assigns models to stages like "Staging", "Production", or "Archived".
+Annotations: Allows adding descriptions and metadata.
+Collaboration: Supports team workflows for model approval and deployment.
