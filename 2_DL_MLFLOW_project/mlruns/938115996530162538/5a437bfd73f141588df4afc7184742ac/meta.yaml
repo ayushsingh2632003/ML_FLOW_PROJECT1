@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROJECTS/ML_FLOW_PROJECT1/2_DL_MLFLOW_project/mlruns/938115996530162538/5a437bfd73f141588df4afc7184742ac/artifacts
+end_time: 1756226578680
+entry_point_name: ''
+experiment_id: '938115996530162538'
+lifecycle_stage: active
+run_id: 5a437bfd73f141588df4afc7184742ac
+run_name: suave-vole-356
+run_uuid: 5a437bfd73f141588df4afc7184742ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756226480109
+status: 3
+tags: []
+user_id: admin

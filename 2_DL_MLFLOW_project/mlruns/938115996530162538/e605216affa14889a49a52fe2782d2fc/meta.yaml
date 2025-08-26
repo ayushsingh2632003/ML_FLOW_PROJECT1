@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROJECTS/ML_FLOW_PROJECT1/2_DL_MLFLOW_project/mlruns/938115996530162538/e605216affa14889a49a52fe2782d2fc/artifacts
+end_time: 1756226565093
+entry_point_name: ''
+experiment_id: '938115996530162538'
+lifecycle_stage: active
+run_id: e605216affa14889a49a52fe2782d2fc
+run_name: rumbling-crab-612
+run_uuid: e605216affa14889a49a52fe2782d2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756226549432
+status: 3
+tags: []
+user_id: admin

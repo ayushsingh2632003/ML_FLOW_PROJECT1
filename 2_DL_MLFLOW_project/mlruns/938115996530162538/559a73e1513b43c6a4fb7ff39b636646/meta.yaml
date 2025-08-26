@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROJECTS/ML_FLOW_PROJECT1/2_DL_MLFLOW_project/mlruns/938115996530162538/559a73e1513b43c6a4fb7ff39b636646/artifacts
+end_time: 1756226518006
+entry_point_name: ''
+experiment_id: '938115996530162538'
+lifecycle_stage: active
+run_id: 559a73e1513b43c6a4fb7ff39b636646
+run_name: indecisive-snake-952
+run_uuid: 559a73e1513b43c6a4fb7ff39b636646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756226482933
+status: 3
+tags: []
+user_id: admin

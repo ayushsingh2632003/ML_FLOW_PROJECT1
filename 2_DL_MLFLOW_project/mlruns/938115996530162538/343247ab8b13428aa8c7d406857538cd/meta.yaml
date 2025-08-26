@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROJECTS/ML_FLOW_PROJECT1/2_DL_MLFLOW_project/mlruns/938115996530162538/343247ab8b13428aa8c7d406857538cd/artifacts
+end_time: 1756226549379
+entry_point_name: ''
+experiment_id: '938115996530162538'
+lifecycle_stage: active
+run_id: 343247ab8b13428aa8c7d406857538cd
+run_name: fortunate-swan-707
+run_uuid: 343247ab8b13428aa8c7d406857538cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756226534114
+status: 3
+tags: []
+user_id: admin
